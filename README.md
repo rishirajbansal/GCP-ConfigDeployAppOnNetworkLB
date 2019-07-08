@@ -1,6 +1,9 @@
 # GCP-ConfigDeployAppOnNetworkLB
 ## Configuration and Deployment of application based on Network Load Balancer
 
+
+##### Technologies Used: Node.js, MySQL, Load Balancer, Compute Engine
+
 •	A Compute Engine instance hosts a MySQL database for the application.
 
 •	An instance template for frontend instances, uses a Docker image for the Node.js application.
